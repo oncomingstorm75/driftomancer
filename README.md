@@ -1,2 +1,0 @@
-# driftomancer
-Charactermancer for Rollingdeadly
